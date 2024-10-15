@@ -1,0 +1,2 @@
+# YOLOv10objectDetection
+ObjectDetectionIOSApp
